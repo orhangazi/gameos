@@ -1,2 +1,2 @@
 # gameos
-For gamers, by games
+For gamers, by gamers
