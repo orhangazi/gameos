@@ -1,2 +1,2 @@
 # GameOS
-An operating system designed by gamers, for gamers.
+An operating system developed by gamers, for gamers.
